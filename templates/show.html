@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Results</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+
+<body>
+  <div class="box-container">
+    <div class="box" id="b1">
+      <p>Classification: {{animal['Classification']}}</p>
+    </div><!--
+        -->
+    <div class="box" id="b2">
+      <p>Name: {{animal['Animal']}}</p>
+    </div><!--
+        -->
+    <div class="box" id="b3">
+      <p>Habitat: {{animal['Habitat']}}</p>
+    </div>
+  </div><!--
+        -->
+  <div class="box-container">
+    <div class="box" id="b4">
+      <p>Size: {{animal['Size']}}</p>
+    </div><!--
+        -->
+    <div class="box" id="b5">
+      <p>Diet: {{animal['Diet']}}</p>
+    </div><!--
+        -->
+    <div class="box" id="b6">
+      <p>Danger: {{animal['Danger']}}</p>
+    </div>
+  </div>
+  <div class="hex">
+    <img src="{{ url_for('static', filename='images/' + 'UploadedImage.jpg') }}" class="image">
+  </div>
+</body>
+
+</html>

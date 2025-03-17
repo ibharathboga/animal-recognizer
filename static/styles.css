@@ -1,0 +1,111 @@
+body {
+    background-color: #1d1b1b;
+    margin: 0px;
+    overflow: hidden;
+    font-family: "Copperplate Gothic Light";
+    font-size: larger;
+  }
+  
+  .hex {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 10;
+    object-fit: cover;
+    transition: clip-path 0.5s ease-in-out;
+    border: 2px solid #1d1b1b;
+    animation: wave 3s infinite 2s ease-in-out ;
+    border-radius: 50%;
+    overflow: hidden;
+  }
+  
+  .hex img {
+    height: 300px;
+    width: 300px;
+    animation: wave 3s infinite 2s ease-in-out ;
+  }
+  
+  .hex:hover {
+    clip-path: none;
+    border-radius: 0%;
+  }
+  
+  .box-container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .box {
+    height: 50vh;
+    width: 33.33vw;
+    display: flex;
+    padding: 0px;
+    margin-right: -4px;
+    background-color: #1d1b1b;
+    color: #ec4d37;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  #b1{
+    border-right: 2px solid #1d1b1b;
+    border-bottom: 2px solid #1d1b1b;
+    animation: slide-top 1s , wave 3s infinite 2s ease-in-out reverse;
+  }
+
+  #b2{
+    border-left: 2px solid #1d1b1b;
+    border-right: 2px solid #1d1b1b;
+    border-bottom: 2px solid #1d1b1b;
+    animation: slide-top 1.5s , wave 3s infinite 2s ease-in-out reverse;
+  }
+
+  #b3{
+    border-left: 2px solid #1d1b1b;
+    border-bottom: 2px solid #1d1b1b;
+    animation: slide-top 1.75s , wave 3s infinite 2s ease-in-out reverse;
+  }
+
+  #b4{
+    border-right: 2px solid #1d1b1b;
+    animation: slide-down 1.75s , wave 3s infinite 2s ease-in-out reverse;
+  }
+
+  #b5{
+    border-left: 2px solid #1d1b1b;
+    border-right: 2px solid #1d1b1b;
+    animation: slide-down 1.5s , wave 3s infinite 2s ease-in-out reverse;
+  }
+
+  #b6{
+    border-left: 2px solid #1d1b1b;
+    animation: slide-down 1s , wave 3s infinite 2s ease-in-out reverse;
+  }
+
+  
+  @keyframes wave {
+    25%{border-color: #7bec37;}
+    50%{border-color: #37d6ec;}
+    75%{border-color: #a737ec;}
+    100%{border-color: #1d1b1b;}
+  }
+  
+  @keyframes slide-top {
+		from {
+				transform: translatey(-100%);
+			}
+			to {
+				transform: translatey(0%);
+			}
+	}
+
+  @keyframes slide-down {
+		from {
+				transform: translatey(100%);
+			}
+			to {
+				transform: translatey(0%);
+			}
+	}

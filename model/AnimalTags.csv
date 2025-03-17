@@ -1,0 +1,91 @@
+Animal,Classification,Habitat,Diet,Size,Danger
+Antelope,Mammal,Savannah,Herbivore,Large,Low
+Badger,Mammal,Forest,Carnivore,Medium,Low
+Bat,Mammal,Cave or Forest,Insectivore,Small,Low
+Bear,Mammal,Forests,Herbivore/Omnivore,Large,High
+Bee,Insect,Flower Fields,Nectar and Pollen,Small,Low
+Beetle,Insect,Forests or Fields,Omnivore,Small,Low
+Bison,Mammal,Grasslands,Herbivore,Large,Low
+Boar,Mammal,Forests,Herbivore,Medium,Low
+Butterfly,Insect,Fields or Gardens,Nectar,Small,Low
+Cat,Mammal,Domesticated or Wild,Carnivore,Small to Large,Low
+Caterpillar,Insect,Forests or Gardens,Herbivore,Small,Low
+Chimpanzee,Mammal,Forest,Herbivore/Fruit,Medium,Low
+Cockroach,Insect,Dark and Damp Places,Scavenger,Small,Low
+Cow,Mammal,Grasslands,Herbivore,Large,Low
+Coyote,Mammal,Deserts, Carnivore,Medium,Low
+Crab,Crustacean,Ocean or Beaches,Omnivore,Small to Medium,Low
+Crow,Bird,Forests or Urban areas,Scavenger,Omnivore,Low
+Deer,Mammal,Forests or Grasslands,Herbivore,Medium to Large,Low
+Dog,Mammal,Domesticated or Wild,Carnivore,Small to Large,Low
+Dolphin,Mammal,Ocean,Carnivore,Medium to Large,Low
+Donkey,Mammal,Grasslands,Herbivore,Medium,Low
+Dragonfly,Insect,Water or Fields,Insectivore,Small to Medium,Low
+Duck,Bird,Water or Grasslands,Omnivore,Medium,Low
+Eagle,Bird,Mountains or Forests,Carnivore,Large,Medium
+Elephant,Mammal,Forests or Grasslands,Herbivore,Large,High
+Flamingo,Bird,Coastal areas,Omnivore,Medium,Low
+Fly,Insect,Anywhere,Omnivore,Small,Low
+Fox,Mammal,Forests or Grasslands,Carnivore,Small to Medium,Low
+Goat,Mammal,Mountains or Grasslands,Herbivore,Small to Medium,Low
+Goldfish,Fish,Aquariums or Ponds,Omnivore,Small,Low
+Goose,Bird,Water or Grasslands,Omnivore,Medium,Low
+Gorilla,Mammal,Forests,Herbivore,Medium to Large,Low
+Grasshopper,Insect,Fields or Grasslands,Herbivore,Small to Medium,Low
+Hamster,Mammal,Domesticated or Wild,Herbivore,Small,Low
+Hare,Mammal,Grasslands,Herbivore,Small to Medium,Low
+Hedgehog,Mammal,Forests or Gardens,Insectivore,Small,Low
+Hippopotamus,Mammal,Rivers or Swamps,Herbivore,Large,High
+Hornbill,Bird,Forests or Savannah,Herbivore,Medium to Large,Low
+Horse,Mammal,Grasslands or Domesticated,Herbivore,Large,Low
+Hummingbird,Bird,Forests or Gardens,Nectar,Small,Low
+Hyena,Mammal,Savannah or Forests,Carnivore,Medium,Medium
+Jellyfish,Cnidarian,Ocean,Plankton or Fish,Small to Medium,Low
+Kangaroo,Mammal,Australian Outback,Herbivore,Medium to Large,Low
+Koala,Mammal,Australian Forests,Herbivore,Small to Medium,Low
+Ladybug,Insect,Gardens or Fields,Herbivore,Small,Low
+Leopard,Mammal,Forests or Savannah,Carnivore,Medium to Large,High
+Lion,Mammal,Savannah,Carnivore,Large,High
+Lizard,Reptile,Forests or Deserts,Insectivore or Carnivore,Small to Medium,Low
+Lobster,Crustacean,Ocean,Omnivore,Medium to Large,Low
+Mosquito,Insect,Anywhere,Blood,Small,Low (Disease Carrier)
+Moth,Insect,Forests or Gardens,Nectar,Small to Medium,Low
+Mouse,Mammal,Forests or Fields,Herbivore,Small,Low
+Octopus,Mollusk,Ocean,Carnivore,Medium to Large,Low
+Okapi,Mammal,Forests,Herbivore,Medium,Low
+Orangutan,Mammal,Forests,Herbivore,Medium,Low
+Otter,Mammal,Water,Invertebrates or Fish,Small to Medium,Low
+Owl,Bird,Forests or Fields,Carnivore,Small to Medium,Low
+Ox,Mammal,Farms,Herbivore,Large,Low
+Oyster,Mollusk,Ocean or Ponds,Filter Feeder,Small to Medium,Low
+Panda,Mammal,Forests,Herbivore,Medium,Low
+Parrot,Bird,Forests or Domesticated,Herbivore,Small to Medium,Low
+Pelecaniformes,Bird,Coastal or Water,Omnivore,Medium to Large,Low
+Penguin,Bird,Antarctic or Coastal areas,Carnivore,Medium to Large,Low
+Pig,Mammal,Farms,Herbivore or Omnivore,Medium to Large,Low
+Pigeon,Bird,Urban or Rural areas,Seed or Fruit,Small to Medium,Low
+Porcupine,Mammal,Forests or Grasslands,Herbivore,Medium,Low
+Possum,Mammal,Forests or Urban areas,Omnivore,Small,Low
+Raccoon,Mammal,Forests or Urban areas,Omnivore,Small to Medium,Low
+Rat,Mammal,Anywhere,Omnivore,Small,Low (Disease Carrier)
+Reindeer,Mammal,Tundra,Herbivore,Medium to Large,Low
+Rhinoceros,Mammal,Savannah,Herbivore,Large,High
+Sandpiper,Bird,Coastal or Water,Insectivore,Small,Low
+Seahorse,Fish,Ocean,Carnivore,Small,Low
+Seal,Mammal,Ocean or Ice,Carnivore,Medium to Large,Low
+Shark,Fish,Ocean,Carnivore,Medium to Large,High
+Sheep,Mammal,Farms or Mountains,Herbivore,Medium,Low
+Snake,Reptile,Forests or Deserts,Carnivore,Small to Large,Medium to High
+Sparrow,Bird,Urban or Rural areas,Seed or Insects,Small,Low
+Squid,Mollusk,Ocean,Carnivore,Medium to Large,Low
+Squirrel,Mammal,Forests or Urban areas,Herbivore,Small,Low
+Starfish,Echinoderm,Ocean,Carnivore or Scavenger,Small to Medium,Low
+Swan,Bird,Lakes or Ponds,Herbivore,Medium,Low
+Tiger,Mammal,Forests or Grasslands,Carnivore,Large,High
+Turkey,Bird,Farms or Forests,Omnivore,Medium,Low
+Turtle,Reptile,Water or Land,Herbivore or Carnivore,Small to Large,Low
+Whale,Mammal,Ocean,Plankton or Fish,Medium to Large,Low
+Wolf,Mammal,Forests or Grasslands,Carnivore,Medium to Large,High
+Wombat,Mammal,Australian Forests or Grasslands,Herbivore,Medium,Low
+Woodpecker,Bird,Forests or Urban areas,Insects or Nectar,Small to Medium,Low
+Zebra,Mammal,Savannah,Herbivore,Medium,Low
