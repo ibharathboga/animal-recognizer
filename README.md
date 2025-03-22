@@ -24,7 +24,7 @@ The model was trained and evaluated on the Animal Image Dataset (90 Different An
 - Preprocessing: All images were preprocessed using the preprocess_input function from the VGG16 module.
 - Augmentation: Images were augmented with random rotations, shifts, zooms, flips, and more to improve the model's generalization.
 
-# To use the model via flask based application,
+# To use the model via flask based application
 
 - Open command prompt in administrator mode.
 
